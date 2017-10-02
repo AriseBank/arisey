@@ -1,0 +1,10 @@
+{
+	"name": "arisey",
+	"json": false,
+	"ariseJS": {
+		"testnet": false,
+		"node": "",
+		"port": "",
+		"ssl": false
+	}
+}
